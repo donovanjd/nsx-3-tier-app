@@ -1,0 +1,6 @@
+{
+  "registry.terraform.io/vmware/nsxt": {
+    "hash": "h1:P493EbZPf6rKstv0jwdtGd5sMRLtSc7y927oKNemN70=",
+    "version": "3.1.1"
+  }
+}

@@ -1,0 +1,15 @@
+nsx_mgr  = "192.168.172.71"
+nsx_mgr_username =  "admin"
+nsx_mgr_password =  "VMware123"
+nsx_edge_cluster = "EdgeCluster2"
+nsx_overlay_tz = "nsx-overlay-transportzone"
+tz_vlan_105 = "TZ_VLAN_105"
+tz_vlan_106 = "TZ_VLAN_106"
+t0_uplink1_vlan_105 = "seg-vlan105-uplink1"
+t0_uplink1_vlan_106 = "seg-vlan106-uplink1"
+t0_uplink_int_105_1 = ["192.168.105.3/24"]
+t0_uplink_int_106_1 = ["192.168.106.3/24"]
+t0_uplink_int_105_2 = ["192.168.105.4/24"]
+t0_uplink_int_106_2 = ["192.168.106.4/24"]
+t0_105_bgp_neigh = ["192.168.105.11", "192.168.105.12"]
+t0_106_bgp_neigh = ["192.168.106.11", "192.168.106.12"]
